@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 I'm a Computer Science undergraduate at **RGUKT Ongole (2023 - 2027)** with an **8.9 CGPA**.
+* 🎓 I'm a **Data Scientist & Machine Learning Engineer** studying at **RGUKT Ongole (2023 - 2027)**.
 * 🧠 I specialize in **Artificial Intelligence, Machine Learning, and Data Science**.
 * 🔭 I’m currently working on building end-to-end ML products like **AutoML Studio** and **SafeGirl AI**.
 * 🌱 I’m currently diving deep into **Deep Learning, Generative AI, and NLP**.
@@ -66,7 +66,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/hemanthsurnidi/hemanthsurnidi/actions/workflows/main.yml/badge.svg" />
   <img src="https://github-readme-stats.vercel.app/api?username=hemanthsurnidi&show_icons=true&theme=radical&hide_border=true" alt="Hemanth's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthsurnidi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
@@ -79,18 +78,3 @@
 <a href="https://www.linkedin.com/in/hemanth-surnidi-4a68332b1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:hemanthsurnidi20095@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
-
-<!--
-**hemanthsurnidi/hemanthsurnidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
