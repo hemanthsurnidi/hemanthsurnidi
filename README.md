@@ -13,7 +13,7 @@
 
 * 🎓 I'm a **Data Scientist & Machine Learning Engineer** studying at **RGUKT Ongole (2023 - 2027)**.
 * 🧠 I specialize in **Artificial Intelligence, Machine Learning, and Data Science**.
-* 🔭 I’m currently working on building end-to-end ML products like **AutoML Studio** and **SafeGirl AI**.
+* 🔭 I’m currently working on building end-to-end ML products like **AutoML Studio** and **SafeGirl**.
 * 🌱 I’m currently diving deep into **Deep Learning, Generative AI, and NLP**.
 * 💬 Ask me about **Python, Scikit-Learn, Pandas, and Model Deployment**.
 * 📫 How to reach me: **hemanthsurnidi20095@gmail.com**
@@ -54,12 +54,12 @@
 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
-| **[AutoML Studio](https://github.com/hemanthsurnidi/AutoML-Studio)** | Automated Machine Learning platform to streamline the data science lifecycle. Automates data preprocessing, model selection, and evaluation pipelines. | [Demo](https://hemanthsurnidi-automl-studio.hf.space) |
-| **[SafeGirl AI](https://github.com/hemanthsurnidi/SafeGirl)** | AI-powered personal safety platform utilizing location tracking, real-time sentiment analysis, and knowledge graphs to provide predictive risk assessments. | [Demo](https://hemanthsurnidi-safegirl.hf.space/) |
-| **[Echo AI Agent](https://github.com/hemanthsurnidi/Echo-AI)** | Intelligent conversational agent powered by Google Gemini, capable of web search, sentiment analysis, and answering complex queries using NLP. | [Demo](https://echo-ai-rh4o.onrender.com/) |
-| **[Climate Visibility ML](https://github.com/hemanthsurnidi/climate-visibility-ml)** | Predictive model utilizing meteorological parameters to accurately forecast atmospheric visibility for environmental applications. | [Demo](https://climate-visibility-m48z.onrender.com) |
-| **[Customer Categorizer](https://github.com/hemanthsurnidi/customer-categorizer-ml)** | Unsupervised learning application (K-Means clustering) that segments customers based on their purchasing behavior. | [Demo](https://customer-categorizer-fdhq.onrender.com/) |
-| **[Birth Weight Predictor](https://github.com/hemanthsurnidi/Birth-Weight-Predictor)** | Supervised regression model that analyzes maternal health parameters to predict infant birth weights. | [Demo](https://birth-weight-predictor-wrrl.onrender.com/) |
+| **[AutoML Studio](https://github.com/hemanthsurnidi/AutoML_Studio)** | Built a web-based AutoML platform using Python and Flask that automates machine learning model selection, training, and evaluation. Engineered an end-to-end pipeline enabling users to upload CSV datasets and generate predictive models with minimal manual intervention. | [Demo](https://hemanthsurnidi-automl-studio.hf.space) |
+| **[SafeGirl](https://github.com/hemanthsurnidi/SafeGirl)** | Engineered a data science pipeline using Python to analyze real-world crime data and generate safety scores. Implemented pathfinding algorithms to process geospatial data and show the safest, lowest-risk travel routes between two locations. | [Demo](https://hemanthsurnidi-safegirl.hf.space/) |
+| **[Echo AI](https://github.com/hemanthsurnidi/Echo-AI)** | Developed a web application using Python to capture, process, and analyze real-time speech data for communication intelligence. Engineered a scoring system to analyze vocal parameters (such as Words Per Minute and speech continuity) to estimate user confidence scores. | [Demo](https://echo-ai-rh4o.onrender.com/) |
+| **[Climate Visibility ML](https://github.com/hemanthsurnidi/climate-visibility-ml)** | A data science project focused on predicting atmospheric visibility. Analyzes climate and weather datasets to train predictive models for environmental forecasting. | [Demo](https://climate-visibility-m48z.onrender.com) |
+| **[Customer Categorizer](https://github.com/hemanthsurnidi/customer-categorizer-ml)** | An end-to-end customer segmentation and classification web application. Utilizes unsupervised learning algorithms to group customers based on purchasing behavior. | [Demo](https://customer-categorizer-fdhq.onrender.com/) |
+| **[Birth Weight Predictor](https://github.com/hemanthsurnidi/Birth-Weight-Predictor)** | A predictive machine learning model deployed as a web application to estimate infant birth weights based on maternal health factors and historical data. | [Demo](https://birth-weight-predictor-wrrl.onrender.com/) |
 
 ---
 
