@@ -63,15 +63,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemanthsurnidi&show_icons=true&theme=radical&hide_border=true" alt="Hemanth's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthsurnidi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Connect with me
 
 <p align="center">
